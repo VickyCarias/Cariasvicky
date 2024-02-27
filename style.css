@@ -86,3 +86,19 @@ h3 {
     width: 435px;
 
 }
+
+.dis {
+    margin-right: -10px;
+    display: block;
+}
+
+#datetime {
+    font-weight: 600;
+    height: 120px;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 10px;
+    border-style: solid;
+    border-color: rgb(98, 93, 93);
+}

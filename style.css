@@ -51,3 +51,38 @@ h3 {
     border-style: solid;
     border-color: rgb(98, 93, 93);
 }
+
+.media {
+    text-align: center;
+    display: flex;
+}
+
+.aud {
+    font-weight: 600;
+    height: 120px;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 10px;
+    border-style: solid;
+    border-color: rgb(98, 93, 93);
+}
+
+.vid {
+    font-weight: 600;
+    width: 450px;
+    height: 275px;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 10px;
+    border-style: solid;
+    border-color: rgb(98, 93, 93);
+}
+
+.vid video {
+    height: 220px;
+    border-radius: 8px;
+    width: 435px;
+
+}

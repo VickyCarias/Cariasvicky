@@ -43,3 +43,11 @@ h3 {
     text-align: left;
 }
 
+.biodata img {
+    border-radius: 10px;
+    margin-right: 15px;
+    width:250px;
+    height: 280px;
+    border-style: solid;
+    border-color: rgb(98, 93, 93);
+}
